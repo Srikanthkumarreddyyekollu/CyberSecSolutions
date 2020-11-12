@@ -1,2 +1,2 @@
 # CyberSecSolutions
-CyberSecSolutions - which may be useful to some who are looking for such tools/utilities
+CyberSecSolutions - useful Tools/utilities for people looking for some help.
